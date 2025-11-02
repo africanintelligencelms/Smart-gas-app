@@ -1,0 +1,7 @@
+{
+  "name": "Prolife Smart LPG Monitor",
+  "description": "A mobile application to monitor a smart LPG regulator and facilitate on-demand gas refills in Nigeria. It features a dashboard for gas levels, a refill ordering system, and an account management section.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
